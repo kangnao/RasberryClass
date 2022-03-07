@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Queen popular song
 1. Bohemian Rhapsody
 2. Love Of My Life
+=======
+
+>>>>>>> ccff985542f7569080da2da0642ba6bcb03d27cc
